@@ -31,12 +31,20 @@ I'm a former Sustainability professional, learn programming at Fullstack Javascr
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-<h4 align="left">🌱 What I currently learning:</h4>
+<h4 align="left">🌱 What I currently learning/ accomplish:</h4>
 <p><a href="https://css-for-js.dev/">CSS for JS Dev by Josh W Comeau</a></p>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+<h4 align="left"> :desert_island: How I keep myself sane:</h4>
+<p>Play guitar, go cycling, and sometimes play indoor soccer</p>
+
+<h4>Language Stats</h4>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodytrifa)](https://github.com/dodytrifa/github-readme-stats)
 
 <h4>GitHub Stats</h4>
 
 [![Dody's github stats](https://github-readme-stats.vercel.app/api?username=dodytrifa&theme=dark&show_icons=true)](https://github.com/dodytrifa)
+
+
