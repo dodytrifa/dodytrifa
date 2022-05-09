@@ -42,6 +42,8 @@ I'm a former Sustainability professional, learn programming at Fullstack Javascr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodytrifa)](https://github.com/dodytrifa/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodytrifa&layout=compact)](https://github.com/dodytrifa/github-readme-stats)
+
 <h4>GitHub Stats</h4>
 
 [![Dody's github stats](https://github-readme-stats.vercel.app/api?username=dodytrifa&theme=dark&show_icons=true)](https://github.com/dodytrifa)
