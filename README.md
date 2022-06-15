@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋, I'm Dody</h1>
 
-I'm a former Sustainability professional, learn programming at Fullstack Javascript bootcamp and try to land my first software developer role
-
 <h4 align="left">Connect with me:</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-dodytrifa-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dodytrifa/)](https://www.linkedin.com/in/dodytrifa/)
